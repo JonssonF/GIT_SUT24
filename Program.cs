@@ -1,0 +1,15 @@
+﻿namespace GIT_SUT24
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+
+
+
+
+            Console.ReadKey();
+        }
+    }
+}
