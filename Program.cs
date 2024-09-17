@@ -6,7 +6,8 @@
         {
 
 
-
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Här kommer en ny rad!");
 
 
             Console.ReadKey();
